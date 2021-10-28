@@ -1,0 +1,16 @@
+{
+    "name": "lkp/design-pattern-in-php",
+    "description": "Share knowledge of design pattern using PHP programming language",
+    "autoload": {
+        "psr-4": {
+            "Lkp\\DesignPatternInPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lamkimphu258",
+            "email": "lamkimphu258@gmail.com"
+        }
+    ],
+    "require": {}
+}
